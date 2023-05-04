@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Vinayak Ravi Saxena</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksaxena1507&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksaxena1507" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayaksaxena1507" alt="vinayaksaxena1507" /></a> </p>
 
-- 🔭 I’m currently working on **Crowd-Funding Application based om Web 3.0**
+- 🔭 I’m currently working on [Real-Time Chat App in React](https://github.com/vinayaksaxena1507/RealTime-Chat-App)
 
-- 🌱 I’m currently learning **React Advance and Vue**
+- 🌱 I’m currently learning **Advance DSA and Advance React Libraries**
+
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
+
+- 💬 Ask me about **react, tailwind, gsap etc related to developement**
 
 - 📫 How to reach me **vinayaksaxena159@gmail.com**
+
+- ⚡ Fun fact **I am a Coder and Professional E-Sports Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
