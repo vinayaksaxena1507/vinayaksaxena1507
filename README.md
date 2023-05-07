@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://github.com/Schweinepriester/Schweinepriester/blob/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)">
+<img align="right" alt="Coding" width="400" height="265" src="https://github.com/Schweinepriester/Schweinepriester/blob/master/MeagerHardtofindAlbertosaurus-size_restricted.gif">
 
 <h2> Hey there! I'm Vinayak.</h2>
 
