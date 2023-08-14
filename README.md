@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science and Engineering at Lovely Professional University.
-- 💼 &nbsp; Worked as a Technical Product Analyst at Juspay Techologies Private Limited.
 - 🌱 &nbsp; Learning more about Development, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing E-Sports Gaming and Fitness Expert as hobbies/side hustles.
 
