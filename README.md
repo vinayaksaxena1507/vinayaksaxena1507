@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksaxena1507&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksaxena1507" /> </p>
 
-- 🔭 I’m currently working on **eTransport Vahan Project**
+- 🔭 I’m currently working on [eTransport Vahan Project](https://analytics.parivahan.gov.in/analytics/)
 
 - 📫 How to reach me **vinayaksaxena159@gmail.com**
 
@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayaksaxena1507&show_icons=true&locale=en&layout=compact" alt="vinayaksaxena1507" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayaksaxena1507&show_icons=true&theme=dark&locale=en" alt="vinayaksaxena1507" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vinayaksaxena1507&show_icons=true&theme=dark&locale=en" alt="vinayaksaxena1507" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinayaksaxena1507&" alt="vinayaksaxena1507" /></p>
 
