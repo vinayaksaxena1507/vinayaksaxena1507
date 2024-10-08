@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayaksaxena1507&label=Profile%20views&color=0e75b6&style=flat" alt="vinayaksaxena1507" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinayaksaxena1507" alt="vinayaksaxena1507" /></a> </p>
-
 - 🔭 I’m currently working on **eTransport Vahan Project**
 
 - 📫 How to reach me **vinayaksaxena159@gmail.com**
